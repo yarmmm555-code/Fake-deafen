@@ -1,8 +1,0 @@
-{
-  "name": "Fake Deafen",
-  "description": "Appear deafened to others while you can still hear",
-  "authors": [{ "name": "You" }],
-  "main": "index.js",
-  "hash": "1",
-  "vendetta": { "icon": "ic_headset_deafened" }
-}
